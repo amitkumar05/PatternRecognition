@@ -1,0 +1,12 @@
+bc_scm_avg_2('C:\Temporary\Data\Interlock');
+bc_scm_2('C:\Temporary\Data\Interlock');
+bc_dcm_2('C:\Temporary\Data\Interlock');
+nbc_scm_avg_2('C:\Temporary\Data\Interlock');
+nbc_scm_2('C:\Temporary\Data\Interlock');
+nbc_dcm_2('C:\Temporary\Data\Interlock');
+bc_scm_avg_2('C:\Temporary\Data\Ring');
+bc_scm_2('C:\Temporary\Data\Ring');
+bc_dcm_2('C:\Temporary\Data\Ring');
+nbc_scm_avg_2('C:\Temporary\Data\Ring');
+nbc_scm_2('C:\Temporary\Data\Ring');
+nbc_dcm_2('C:\Temporary\Data\Ring');
