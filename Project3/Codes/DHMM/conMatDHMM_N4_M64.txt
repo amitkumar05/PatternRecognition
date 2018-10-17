@@ -1,0 +1,9 @@
+45 8 12
+7 59 7
+16 27 46
+
+
+Overall Accuracy: 0.660793
+Class 1 Accuracy: 0.692308
+Class 2 Accuracy: 0.808219
+Class 3 Accuracy: 0.516854

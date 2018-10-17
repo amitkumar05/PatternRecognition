@@ -1,0 +1,9 @@
+40 8 17
+5 54 14
+17 23 49
+
+
+Overall Accuracy: 0.629956
+Class 1 Accuracy: 0.615385
+Class 2 Accuracy: 0.739726
+Class 3 Accuracy: 0.550562

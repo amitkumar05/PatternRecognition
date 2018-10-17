@@ -1,0 +1,9 @@
+30 8 27
+3 54 16
+13 16 60
+
+
+Overall Accuracy: 0.634361
+Class 1 Accuracy: 0.461538
+Class 2 Accuracy: 0.739726
+Class 3 Accuracy: 0.674157
